@@ -1,0 +1,17 @@
+flask
+pandas
+plotly
+yfinance
+numpy
+requests
+beautifulsoup4
+peewee
+curl_cffi
+protobuf
+websockets
+scikit-learn
+matplotlib
+nltk
+telethon
+torch
+tensorflow
